@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": ".",
   "dependencies": {
     "react-scripts": "^4.0.3"
   },
@@ -27,5 +26,6 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.3.0"
   },
-  "description": "My webpack project"
+  "description": "My webpack project",
+  "homepage": "."
 }
