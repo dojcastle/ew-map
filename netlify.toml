@@ -2,12 +2,5 @@
   from = "/*"
   to = "/index.html"
   status = 200
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
   headers = {X-From = "Netlify"}
   signed = "API_SIGNATURE_TOKEN"
