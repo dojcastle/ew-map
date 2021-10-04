@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/dots-map.css",
+    "main.js": "/static/js/dots-map.js",
+    "main.js.map": "/static/js/dots-map.js.map",
+    "index.html": "/index.html",
+    "static/css/dots-map.css.map": "/static/css/dots-map.css.map",
+    "static/js/dots-map.js.LICENSE.txt": "/static/js/dots-map.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/dots-map.css",
+    "static/js/dots-map.js"
+  ]
+}
